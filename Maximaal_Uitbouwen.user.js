@@ -10,8 +10,8 @@
 // @run-at      document-idle
 // @grant       none
 // @resource    https://forum.leitstellenspiel.de/index.php?thread/24689-script-stellplatz-erweiterer-by-bos-ernie/
-// @downloadURL https://update.greasyfork.org/scripts/476316/%2A%20Stellplatz-Erweiterer.user.js
-// @updateURL https://update.greasyfork.org/scripts/476316/%2A%20Stellplatz-Erweiterer.meta.js
+// @downloadURL https://github.com/Rene-63/Maximaal_Uitbouwen/blob/main/Maximaal_Uitbouwen.user.js
+// @updateURL https://github.com/Rene-63/Maximaal_Uitbouwen/blob/main/Maximaal_Uitbouwen.user.js
 // ==/UserScript==
 
 (function () {
